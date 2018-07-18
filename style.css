@@ -1,0 +1,54 @@
+
+        .backg{
+            background: #2c3e50;
+        }
+.image1 {
+  background-image: url(http://goldwallpapers.com/uploads/posts/high-resolution-gaming-wallpaper/high_resolution_gaming_wallpaper_004.jpg);
+}
+
+.image2 {
+  background-image: url(http://goldwallpapers.com/uploads/posts/high-resolution-gaming-wallpaper/high_resolution_gaming_wallpaper_006.jpg);
+}.image4 {
+  background-image: url(http://goldwallpapers.com/uploads/posts/high-resolution-gaming-wallpaper/high_resolution_gaming_wallpaper_002.jpg);
+}.image5 {
+  background-image: url(http://goldwallpapers.com/uploads/posts/high-resolution-gaming-wallpaper/high_resolution_gaming_wallpaper_003.jpg);
+}.image6 {
+  background-image: url(http://goldwallpapers.com/uploads/posts/high-resolution-gaming-wallpaper/high_resolution_gaming_wallpaper_005.jpg);
+}.image7 {
+  background-image: url(https://wallpapercave.com/wp/8BhE074.jpg);
+}.image8 {
+  background-image: url(http://3rd-strike.com/wp-content/uploads/2013/06/gr1.jpg);
+}.image9 {
+  background-image: url(https://images.alphacoders.com/211/211313.jpg);
+}.image3 {
+  background-image: url(http://i.imgur.com/1GyUJ.jpg);
+}
+
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center center;
+}
+
+body{
+    padding-top: 70px;
+}
+.jumbotron{
+  color:#2c3e50;
+  background:#ecf0f1;
+}
+
+.navbar-default .navbar-nav > li > a {
+color:white;
+}
+.navbar-default .navbar-nav > li > a:hover {
+color:white;
+}
+.navbar-default .navbar-brand {
+color: white;
+}
+.navbar-default .navbar-brand:hover{
+color: white;
+}
+/*copied from inspector*/
